@@ -1,0 +1,6 @@
+name: binder demo
+dependencies:
+  - python=3.7
+  - numpy
+  - astropy
+  - firefly_client
