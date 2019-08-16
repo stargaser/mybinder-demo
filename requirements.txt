@@ -1,0 +1,7 @@
+numpy==1.16.*
+matplotlib==3.*
+jupyterlab==1.0.*
+astropy==3.2.*
+firefly_client==2.2.*
+jupyter_firefly_extensions
+ipywidgets
