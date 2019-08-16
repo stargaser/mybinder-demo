@@ -1,3 +1,8 @@
 #!/bin/bash
+
+# Set up environment variables for Firefly
 export FIREFLY_URL=https://lsst-demo.ncsa.illinois.edu/firefly
 export FIREFLY_HTML=slate.html
+
+# This must be the last line!
+exec "$@"
