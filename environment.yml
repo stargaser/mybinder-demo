@@ -4,6 +4,9 @@ dependencies:
   - numpy=1.15
   - astropy=3.2.1
   - jupyterlab>=1.0.1
+  - ipywidgets
+  - nodejs
   - pip
   - pip:
     - firefly_client
+    - jupyter_firefly_extensions
