@@ -1,0 +1,3 @@
+#!/bin/bash
+export FIREFLY_URL=https://lsst-demo.ncsa.illinois.edu/firefly
+export FIREFLY_HTML=slate.html
