@@ -3,4 +3,6 @@ dependencies:
   - python=3.7
   - numpy
   - astropy
-  - firefly_client
+  - pip
+  - pip:
+    - firefly_client
