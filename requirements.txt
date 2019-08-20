@@ -5,3 +5,4 @@ astropy==3.2.*
 firefly_client==2.2.*
 jupyter_firefly_extensions
 ipywidgets
+astroquery
