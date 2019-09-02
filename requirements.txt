@@ -6,3 +6,5 @@ firefly_client==2.2.*
 jupyter_firefly_extensions
 ipywidgets
 astroquery
+voila
+ipymidicontrols==0.1.3
