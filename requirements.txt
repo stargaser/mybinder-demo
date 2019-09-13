@@ -4,7 +4,7 @@ jupyterlab==1.0.*
 astropy==3.2.*
 firefly_client==2.2.*
 jupyter_firefly_extensions
-ipywidgets
+ipywidgets==7.5.1
 astroquery
-voila
+voila==0.1.0
 ipymidicontrols==0.1.3
